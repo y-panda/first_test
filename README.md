@@ -7,4 +7,4 @@ sublimeの設定のせいか、青文字で見にくい
 
 プルリク作業終わったのでブランチ削除
 
-html使ってfetchの確認
+html使ってfetchの確認（fetch-test2のブランチ）
